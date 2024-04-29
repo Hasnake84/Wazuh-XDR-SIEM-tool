@@ -1,4 +1,4 @@
-# Wazuh-SIEM-tool-project
+# Wazuh XDR and SIEM-tool project
 <a href="https://imgur.com/65EmwsW"><img src="https://i.imgur.com//65EmwsW.png" title="source: imgur.com" /></a>
 # Objectives
  - Install Wazuh Manager on linux machine
